@@ -16,6 +16,7 @@
 		EE988B6F27B25F1D00844956 /* MentorBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE988B6E27B25F1D00844956 /* MentorBookTests.swift */; };
 		EE988B7927B25F1D00844956 /* MentorBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE988B7827B25F1D00844956 /* MentorBookUITests.swift */; };
 		EE988B7B27B25F1D00844956 /* MentorBookUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE988B7A27B25F1D00844956 /* MentorBookUITestsLaunchTests.swift */; };
+		EE988B8827B4E45D00844956 /* Mentor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE988B8727B4E45D00844956 /* Mentor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		EE988B7427B25F1D00844956 /* MentorBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MentorBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE988B7827B25F1D00844956 /* MentorBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MentorBookUITests.swift; sourceTree = "<group>"; };
 		EE988B7A27B25F1D00844956 /* MentorBookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MentorBookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EE988B8727B4E45D00844956 /* Mentor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mentor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				EE988B6027B25F1D00844956 /* Assets.xcassets */,
 				EE988B6227B25F1D00844956 /* LaunchScreen.storyboard */,
 				EE988B6527B25F1D00844956 /* Info.plist */,
+				EE988B8727B4E45D00844956 /* Mentor.swift */,
 			);
 			path = MentorBook;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE988B8827B4E45D00844956 /* Mentor.swift in Sources */,
 				EE988B5C27B25F1B00844956 /* ViewController.swift in Sources */,
 				EE988B5827B25F1B00844956 /* AppDelegate.swift in Sources */,
 				EE988B5A27B25F1B00844956 /* SceneDelegate.swift in Sources */,
